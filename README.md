@@ -35,9 +35,9 @@ I'm a software developer with a passion for art, technology, and games. After co
 
 These days, I'm exploring 3D modelling, Unity, and game development while finding new ways to bring my ideas to life. (❁´◡`❁)
 
+<br><br>
 
 ### ✧ tools & technologies
-
 
 **development**
 
