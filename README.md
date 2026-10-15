@@ -39,8 +39,6 @@ These days, I'm exploring 3D modelling, Unity, and game development while findin
 ### ✧ tools & technologies
 
 
-### ✧ tools & technologies
-
 **development**
 
 [![Development](https://skillicons.dev/icons?i=js,ts,react,html,css,py,java,c,cs&theme=dark)](https://skillicons.dev)
