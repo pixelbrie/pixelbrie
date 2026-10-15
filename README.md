@@ -38,17 +38,25 @@ These days, I'm exploring 3D modelling, Unity, and game development while findin
 
 ### ✧ tools & technologies
 
-**development**  
-JavaScript · TypeScript · React · HTML/CSS · Python · Java · C · C#
 
-**backend & databases**  
-Node.js · Express · Django · Firebase · PostgreSQL · MongoDB
+### ✧ tools & technologies
 
-**creative & game development**  
-Unity · Blender · Maya · Figma · Photoshop · Clip Studio Paint
+**development**
 
-**workflow**  
-Git · Docker · Linux
+[![Development](https://skillicons.dev/icons?i=js,ts,react,html,css,py,java,c,cs&theme=dark)](https://skillicons.dev)
+
+**backend & databases**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,firebase,postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+**creative & game development**
+
+[![Creative](https://skillicons.dev/icons?i=unity,blender,maya,figma,ps&theme=dark)](https://skillicons.dev)
+
+**workflow**
+
+[![Workflow](https://skillicons.dev/icons?i=git,docker,linux&theme=dark)](https://skillicons.dev)
+
 
 ### ✧ currently exploring
 
